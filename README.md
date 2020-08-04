@@ -14,7 +14,6 @@ The script will also send a dm to the user from the user's twitter account listi
 
 INSTRUCTIONS:
 1. request an api account from twitter with access to reading/writing/direct messaging
-2. save the keys given from twitter in your environment variables as
-  \ `TWITTER_KEYS = consumer_key,consumer_secret,access_token_key,access_token_secret`
+2. save the keys given from twitter in your environment variables as  `TWITTER_KEYS = consumer_key,consumer_secret,access_token_key,access_token_secret`
 3. install required modules using pipenv
 4. run using `python unfollower.py`
